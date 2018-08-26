@@ -1,1 +1,1 @@
-# TinyJsonParser
+# TinyJSONParser
